@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44f84fa36baa447b995ed41286413dbc",
+    "revision": "ca17adf32b0f4986ca3cac913d20fa23",
     "url": "/frases-celebres/index.html"
   },
   {
-    "revision": "0aa80beb9b60303eb365",
+    "revision": "ae0bf421375e0ea3ac43",
     "url": "/frases-celebres/static/css/2.48025432.chunk.css"
   },
   {
-    "revision": "0aa80beb9b60303eb365",
-    "url": "/frases-celebres/static/js/2.a9f45f3c.chunk.js"
+    "revision": "fd0cbbe5926932a07249",
+    "url": "/frases-celebres/static/css/main.ec70e1d0.chunk.css"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/frases-celebres/static/js/2.a9f45f3c.chunk.js.LICENSE"
+    "revision": "ae0bf421375e0ea3ac43",
+    "url": "/frases-celebres/static/js/2.18475911.chunk.js"
   },
   {
-    "revision": "fcc9032f3b475cfd4402",
-    "url": "/frases-celebres/static/js/main.bf99f59e.chunk.js"
+    "revision": "f032203ca460334c00de541c30a6078a",
+    "url": "/frases-celebres/static/js/2.18475911.chunk.js.LICENSE"
+  },
+  {
+    "revision": "fd0cbbe5926932a07249",
+    "url": "/frases-celebres/static/js/main.a4bc6cf7.chunk.js"
   },
   {
     "revision": "189f9e07a8afa28de706",
