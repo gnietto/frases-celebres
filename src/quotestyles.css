@@ -1,0 +1,18 @@
+.quotepadding {
+	margin: 10em;
+	box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.quotealign {
+	text-align: center;
+}
+
+.quoteauthor {
+	font-size: 0.8em;
+	padding: 0.8em;
+}
+
+.button {
+	background-color: transparent;
+	border-radius: .5rem;
+}
