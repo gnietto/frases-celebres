@@ -10,6 +10,26 @@ function Quote() {
 	  author: 'Fikayo Adepoju'
 	},
 	{
+	  quote: 'Talk is cheap. Show me the code.',
+	  author: 'Linus Torvalds'
+	},
+	{
+	  quote: 'Programs must be written for people to read, and only incidentally for machines to execute.',
+	  author: 'Harold Abelson'
+	},
+	{
+	  quote: 'I am not a great programmer, I am just a good programmer with great habits.',
+	  author: 'Kent Beck'
+	},
+	{
+	  quote: 'A language that does not affect the way you think about programming is not worth knowing',
+	  author: 'Alan Perlis'
+	},
+	{
+	  quote: 'Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches',
+	  author: 'Paul Graham'
+	},
+	{
 	  quote: 'Work until your name becomes your CV.',
 	  author: 'Prosper Otemuyiwa'
 	},
@@ -95,11 +115,11 @@ function Quote() {
 	},
 	{
 	  quote: "El uso de COBOL daña la mente. Su enseñanza debería ser considerada como un ataque criminal.", 
-	  author: "E. W. Dijkstra"
+	  author: "Edsger. W. Dijkstra"
 	},
 	{
 	  quote: "Es prácticamente imposible enseñar buenos hábitos de programación a estudiantes que hayan sido previamente sometidos a una exposición de BASIC. Como desarrolladores en potencia, están mentalmente mutilados sin esperanza de regeneración.", 
-	  author: "E. W. Dijkstra"
+	  author: "Edsger. W. Dijkstra"
 	},
 	{
 	  quote: "No hay lenguaje de programación, no importa su estructura, que impida que los programadores hagan malos programas.", 
@@ -287,8 +307,8 @@ function Quote() {
 
 	const [textual, setTextual] = useState({cita: QUOTES[0]['quote'], autor: QUOTES[0]['author']})																					
 
-	const handleClick = () => setTextual({cita: QUOTES[getNumber]['quote'],
-																				autor: QUOTES[getNumber]['author']})
+	const handleClick = () => setTextual({	cita: QUOTES[getNumber]['quote'],
+											autor: QUOTES[getNumber]['author']})
 
 	return (
 		<div className='quotepadding'>			
