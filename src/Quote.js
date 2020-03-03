@@ -6,6 +6,18 @@ function Quote() {
 
 	const QUOTES = [
 	{
+	  quote: 'Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary',
+	  author: 'Steve Jobs'
+	},
+	{
+	  quote: 'The only way to do great work is to love what you do. If you have not found it yet, keep looking. Do not settle',
+	  author: 'Steve Jobs'
+	},
+	{
+	  quote: 'The best coders understand the basics of coding, deeply.',
+	  author: 'Fikayo Adepoju'
+	},
+	{
 	  quote: 'The best coders understand the basics of coding, deeply.',
 	  author: 'Fikayo Adepoju'
 	},
