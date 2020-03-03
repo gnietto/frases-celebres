@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frases-celebres/static/css/main.a788cb99.chunk.css",
-    "main.js": "/frases-celebres/static/js/main.d988913d.chunk.js",
-    "main.js.map": "/frases-celebres/static/js/main.d988913d.chunk.js.map",
+    "main.js": "/frases-celebres/static/js/main.5a02a9cb.chunk.js",
+    "main.js.map": "/frases-celebres/static/js/main.5a02a9cb.chunk.js.map",
     "runtime-main.js": "/frases-celebres/static/js/runtime-main.c2a6d473.js",
     "runtime-main.js.map": "/frases-celebres/static/js/runtime-main.c2a6d473.js.map",
     "static/css/2.48025432.chunk.css": "/frases-celebres/static/css/2.48025432.chunk.css",
     "static/js/2.18475911.chunk.js": "/frases-celebres/static/js/2.18475911.chunk.js",
     "static/js/2.18475911.chunk.js.map": "/frases-celebres/static/js/2.18475911.chunk.js.map",
     "index.html": "/frases-celebres/index.html",
-    "precache-manifest.7c24402cb83dc87f5ad982625524c704.js": "/frases-celebres/precache-manifest.7c24402cb83dc87f5ad982625524c704.js",
+    "precache-manifest.3dc94ea331314e04693241e3aa2321b6.js": "/frases-celebres/precache-manifest.3dc94ea331314e04693241e3aa2321b6.js",
     "service-worker.js": "/frases-celebres/service-worker.js",
     "static/css/2.48025432.chunk.css.map": "/frases-celebres/static/css/2.48025432.chunk.css.map",
     "static/css/main.a788cb99.chunk.css.map": "/frases-celebres/static/css/main.a788cb99.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.48025432.chunk.css",
     "static/js/2.18475911.chunk.js",
     "static/css/main.a788cb99.chunk.css",
-    "static/js/main.d988913d.chunk.js"
+    "static/js/main.5a02a9cb.chunk.js"
   ]
 }
