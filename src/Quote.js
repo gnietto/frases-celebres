@@ -10,6 +10,10 @@ function Quote() {
 	  author: 'Steve Jobs'
 	},
 	{
+	  quote: 'Impossible is just a big word thrown around by small men who find it easier to live in the world they have been given than to explore the power they have to change it. Impossible is not a fact. It is an opinion. Impossible is not a declaration. It is a dare. Impossible is potential. Impossible is temporary. Impossible is nothing',
+	  author: 'Muhammad Alí'
+	},
+	{
 	  quote: 'The only way to do great work is to love what you do. If you have not found it yet, keep looking. Do not settle',
 	  author: 'Steve Jobs'
 	},
@@ -18,8 +22,8 @@ function Quote() {
 	  author: 'Fikayo Adepoju'
 	},
 	{
-	  quote: 'The best coders understand the basics of coding, deeply.',
-	  author: 'Fikayo Adepoju'
+	  quote: 'There is only one thing that makes a dream impossible to achieve: the fear of failure.',
+	  author: 'Paulo Coelho'
 	},
 	{
 	  quote: 'Talk is cheap. Show me the code.',
@@ -127,11 +131,11 @@ function Quote() {
 	},
 	{
 	  quote: "El uso de COBOL daña la mente. Su enseñanza debería ser considerada como un ataque criminal.", 
-	  author: "Edsger. W. Dijkstra"
+	  author: "Edsger W. Dijkstra"
 	},
 	{
 	  quote: "Es prácticamente imposible enseñar buenos hábitos de programación a estudiantes que hayan sido previamente sometidos a una exposición de BASIC. Como desarrolladores en potencia, están mentalmente mutilados sin esperanza de regeneración.", 
-	  author: "Edsger. W. Dijkstra"
+	  author: "Edsger W. Dijkstra"
 	},
 	{
 	  quote: "No hay lenguaje de programación, no importa su estructura, que impida que los programadores hagan malos programas.", 
