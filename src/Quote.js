@@ -10,6 +10,18 @@ function Quote() {
 	  author: 'Steve Jobs'
 	},
 	{
+	  quote: 'Any fool can write code that a computer can understand. Good programmers write code that humans can understand',
+	  author: 'Martin Fowler'
+	},
+	{
+	  quote: 'A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct',
+	  author: 'Donald Knuth'
+	},
+	{
+	  quote: 'The most disastrous thing that you can ever learn is your first programming language',
+	  author: 'Alan Kay'
+	},
+	{
 	  quote: 'Impossible is just a big word thrown around by small men who find it easier to live in the world they have been given than to explore the power they have to change it. Impossible is not a fact. It is an opinion. Impossible is not a declaration. It is a dare. Impossible is potential. Impossible is temporary. Impossible is nothing',
 	  author: 'Muhammad Alí'
 	},
