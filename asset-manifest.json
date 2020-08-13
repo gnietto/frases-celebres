@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/frases-celebres/static/css/main.a788cb99.chunk.css",
-    "main.js": "/frases-celebres/static/js/main.f7b5b7a7.chunk.js",
-    "main.js.map": "/frases-celebres/static/js/main.f7b5b7a7.chunk.js.map",
-    "runtime-main.js": "/frases-celebres/static/js/runtime-main.c2a6d473.js",
-    "runtime-main.js.map": "/frases-celebres/static/js/runtime-main.c2a6d473.js.map",
-    "static/css/2.48025432.chunk.css": "/frases-celebres/static/css/2.48025432.chunk.css",
-    "static/js/2.18475911.chunk.js": "/frases-celebres/static/js/2.18475911.chunk.js",
-    "static/js/2.18475911.chunk.js.map": "/frases-celebres/static/js/2.18475911.chunk.js.map",
-    "index.html": "/frases-celebres/index.html",
-    "precache-manifest.3a026bb46703b904c58c8487db5223ac.js": "/frases-celebres/precache-manifest.3a026bb46703b904c58c8487db5223ac.js",
-    "service-worker.js": "/frases-celebres/service-worker.js",
-    "static/css/2.48025432.chunk.css.map": "/frases-celebres/static/css/2.48025432.chunk.css.map",
-    "static/css/main.a788cb99.chunk.css.map": "/frases-celebres/static/css/main.a788cb99.chunk.css.map",
-    "static/js/2.18475911.chunk.js.LICENSE": "/frases-celebres/static/js/2.18475911.chunk.js.LICENSE",
-    "static/media/semantic.min.css": "/frases-celebres/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/frasescelebres/static/css/main.a788cb99.chunk.css",
+    "main.js": "/frasescelebres/static/js/main.43093f1e.chunk.js",
+    "main.js.map": "/frasescelebres/static/js/main.43093f1e.chunk.js.map",
+    "runtime-main.js": "/frasescelebres/static/js/runtime-main.f50f37fb.js",
+    "runtime-main.js.map": "/frasescelebres/static/js/runtime-main.f50f37fb.js.map",
+    "static/css/2.7bd23149.chunk.css": "/frasescelebres/static/css/2.7bd23149.chunk.css",
+    "static/js/2.18475911.chunk.js": "/frasescelebres/static/js/2.18475911.chunk.js",
+    "static/js/2.18475911.chunk.js.map": "/frasescelebres/static/js/2.18475911.chunk.js.map",
+    "index.html": "/frasescelebres/index.html",
+    "precache-manifest.e6e29d414ac5ce5e225b679efca37640.js": "/frasescelebres/precache-manifest.e6e29d414ac5ce5e225b679efca37640.js",
+    "service-worker.js": "/frasescelebres/service-worker.js",
+    "static/css/2.7bd23149.chunk.css.map": "/frasescelebres/static/css/2.7bd23149.chunk.css.map",
+    "static/css/main.a788cb99.chunk.css.map": "/frasescelebres/static/css/main.a788cb99.chunk.css.map",
+    "static/js/2.18475911.chunk.js.LICENSE": "/frasescelebres/static/js/2.18475911.chunk.js.LICENSE",
+    "static/media/semantic.min.css": "/frasescelebres/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2a6d473.js",
-    "static/css/2.48025432.chunk.css",
+    "static/js/runtime-main.f50f37fb.js",
+    "static/css/2.7bd23149.chunk.css",
     "static/js/2.18475911.chunk.js",
     "static/css/main.a788cb99.chunk.css",
-    "static/js/main.f7b5b7a7.chunk.js"
+    "static/js/main.43093f1e.chunk.js"
   ]
 }
